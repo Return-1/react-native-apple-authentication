@@ -67,6 +67,8 @@ An operation used to authenticate a user.
 
 ---
 
+//LOGOUT is not truly supported by apple. This is left here for completion of the native API, however you
+//should not attempt to use it. Take a look here: https://github.com/invertase/react-native-apple-authentication/issues/10
 ### LOGOUT
 
 • **LOGOUT**:
